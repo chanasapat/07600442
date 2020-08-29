@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">07600442</string>
+    <string name="count">Count Down To Election Day</string>
+    <string name="d">Days</string>
+    <string name="h">Hours</string>
+    <string name="m">minutes</string>
+    <string name="s">seconds</string>
+    <string name="next">NEXT</string>
+</resources>
